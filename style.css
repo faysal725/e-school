@@ -1,0 +1,80 @@
+.get-started{
+
+    border-radius: 25px;
+    background-color: #21B573;
+    border:none;
+}
+.front-item{
+    padding-top: 50px;
+    padding-bottom: 110px;
+}
+.head1{
+
+    color:#FD511A;
+}
+
+
+.head2{
+
+    color:#6C6B6B;
+}
+.headline{
+    color: #21B573;
+}
+
+.card{
+    border:none;
+}
+
+.icons{
+    text-align: center;
+}
+
+.courses{
+    text-align: end;
+    
+}
+
+
+.testimonial{
+    
+        padding-top: 50px;
+        padding-bottom: 50px;
+        
+}
+.test{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+} 
+
+.online{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.foot{
+    background-color: #282531;
+    color: white;
+    padding-top:25px;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    line-height:30px;
+    padding-top: 50px;  
+    padding-bottom:50px
+}
+
+.courses{
+    line-height: 40px;
+}
+
+
+footer{
+    text-align: center;
+    font-weight: 300;
+
+}
+
+.card-footer{
+    border:none;
+}
